@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719666583903",
+    "project_id": "myanime-22b8f",
+    "storage_bucket": "myanime-22b8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719666583903:android:a5650fc7db84b81a8c7eea",
+        "android_client_info": {
+          "package_name": "com.example.my_anime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOw-hPWx_V2O9wWYi9GtSzjflRDwutY74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
